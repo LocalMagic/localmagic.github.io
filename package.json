@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/LocalMagic/localmagic.github.io/issues"
   },
-  "homepage": "https://github.com/LocalMagic/localmagic.github.io#readme"
+  "homepage": "https://github.com/LocalMagic/localmagic.github.io#readme",
+  "dependencies": {}
 }
